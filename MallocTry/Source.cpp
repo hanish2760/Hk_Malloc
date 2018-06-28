@@ -3,11 +3,13 @@
 #include<stdio.h>
 #define PAGE_SIZE 1024
 /*
+hello here this the chnage i made .
 
 three functions basically'
 1. malloc
 2. free
 3. debug
+
 
 
 1. malloc
